@@ -1,0 +1,30 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Jadestone"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "Blocks.IRON_BLOCK"
+    },
+    "brewingIngredientStack": {
+      "value": "CUSTOM:Jadeinfusion"
+    },
+    "brewingReturnStack": {
+      "value": "CUSTOM:Infusedironblock"
+    },
+    "name": "infusedironblockrecipe",
+    "namespace": "mod"
+  }
+}

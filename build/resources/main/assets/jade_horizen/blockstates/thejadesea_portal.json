@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "jade_horizen:block/thejadesea_portal_ew"
+    },
+    "axis=x": {
+      "model": "jade_horizen:block/thejadesea_portal_ns"
+    }
+  }
+}

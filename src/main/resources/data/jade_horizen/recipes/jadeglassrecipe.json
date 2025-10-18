@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jade_horizen:jadestone"
+    },
+    {
+      "item": "minecraft:glass"
+    }
+  ],
+  "result": {
+    "item": "jade_horizen:jadeglass",
+    "count": 1
+  }
+}

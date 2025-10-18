@@ -1,0 +1,11 @@
+{
+  "_fv": 79,
+  "_type": "tab",
+  "definition": {
+    "name": "Jade horizon",
+    "icon": {
+      "value": "CUSTOM:Core"
+    },
+    "showSearch": true
+  }
+}

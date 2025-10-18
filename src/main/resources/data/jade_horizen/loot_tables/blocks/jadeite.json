@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "jade_horizen:blocks/jadeite",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "jade_horizen:jadestone",
+          "functions": [
+            {
+              "count": 3,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

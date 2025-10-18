@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:coast_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "jade_horizen:jadeinfusion"
+  },
+  "addition": {
+    "item": "jade_horizen:glond"
+  },
+  "result": {
+    "item": "jade_horizen:jadetrim"
+  }
+}

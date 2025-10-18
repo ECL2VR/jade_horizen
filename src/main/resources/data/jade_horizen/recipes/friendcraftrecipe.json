@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glass"
+    },
+    "b": {
+      "item": "jade_horizen:quantumingot"
+    },
+    "c": {
+      "item": "jade_horizen:quantuminfusion"
+    },
+    "d": {
+      "item": "jade_horizen:circuit"
+    }
+  },
+  "result": {
+    "item": "jade_horizen:friendcraft_spawn_egg",
+    "count": 1
+  }
+}

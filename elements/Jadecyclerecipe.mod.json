@@ -1,0 +1,56 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Quantumcrystal"
+      },
+      {
+        "value": "CUSTOM:Steel"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Steel"
+      },
+      {
+        "value": "CUSTOM:Steel"
+      },
+      {
+        "value": "CUSTOM:Steel"
+      },
+      {
+        "value": "CUSTOM:Jadecore.spawn_egg"
+      },
+      {
+        "value": "CUSTOM:Jadetechraft.spawn_egg"
+      },
+      {
+        "value": "CUSTOM:Jadecore.spawn_egg"
+      },
+      {
+        "value": "CUSTOM:Quantumingot"
+      },
+      {
+        "value": "CUSTOM:Quantumingot"
+      },
+      {
+        "value": "CUSTOM:Quantumingot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Jadecycle.spawn_egg"
+    },
+    "name": "jadecyclerecipe",
+    "namespace": "mod"
+  }
+}

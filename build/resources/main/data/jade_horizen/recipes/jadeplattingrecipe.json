@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "jade_horizen:jadestone"
+    },
+    "b": {
+      "item": "jade_horizen:goldscrap"
+    }
+  },
+  "result": {
+    "item": "jade_horizen:jadeplatting",
+    "count": 1
+  }
+}

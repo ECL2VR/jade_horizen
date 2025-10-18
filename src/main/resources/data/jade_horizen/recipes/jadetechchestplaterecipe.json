@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "jade_horizen:jadetrim"
+  },
+  "base": {
+    "item": "minecraft:diamond_chestplate"
+  },
+  "addition": {
+    "item": "jade_horizen:circuit"
+  },
+  "result": {
+    "item": "jade_horizen:jadetecharmor_chestplate"
+  }
+}

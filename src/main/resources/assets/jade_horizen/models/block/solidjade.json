@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jade_horizen:block/solidjade",
+    "up": "jade_horizen:block/solidjade",
+    "north": "jade_horizen:block/solidjade",
+    "east": "jade_horizen:block/solidjade",
+    "south": "jade_horizen:block/solidjade",
+    "west": "jade_horizen:block/solidjade",
+    "particle": "jade_horizen:block/solidjade"
+  },
+  "render_type": "solid"
+}

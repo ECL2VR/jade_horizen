@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jade_horizen:block/gold_vein",
+    "up": "jade_horizen:block/gold_vein",
+    "north": "jade_horizen:block/gold_vein",
+    "east": "jade_horizen:block/gold_vein",
+    "south": "jade_horizen:block/gold_vein",
+    "west": "jade_horizen:block/gold_vein",
+    "particle": "jade_horizen:block/gold_vein"
+  },
+  "render_type": "solid"
+}

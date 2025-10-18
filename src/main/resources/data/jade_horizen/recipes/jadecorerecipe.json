@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    " b ",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "jade_horizen:glond"
+    },
+    "b": {
+      "item": "jade_horizen:purejade"
+    }
+  },
+  "result": {
+    "item": "jade_horizen:jadecore_spawn_egg",
+    "count": 1
+  }
+}

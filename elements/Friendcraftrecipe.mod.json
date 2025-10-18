@@ -1,0 +1,53 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Friendcraftblueprint"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Quantumingot"
+      },
+      {
+        "value": "CUSTOM:Quantuminfusion"
+      },
+      {
+        "value": "CUSTOM:Quantumingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Circuit"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Friendcraft.spawn_egg"
+    },
+    "name": "friendcraftrecipe",
+    "namespace": "mod"
+  }
+}

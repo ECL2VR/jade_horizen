@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jade_horizen:block/iron_jade_infused",
+    "up": "jade_horizen:block/iron_jade_infused",
+    "north": "jade_horizen:block/iron_jade_infused",
+    "east": "jade_horizen:block/iron_jade_infused",
+    "south": "jade_horizen:block/iron_jade_infused",
+    "west": "jade_horizen:block/iron_jade_infused",
+    "particle": "jade_horizen:block/iron_jade_infused"
+  },
+  "render_type": "solid"
+}

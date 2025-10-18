@@ -1,0 +1,659 @@
+Forge Auto Renaming Tool v2.0.4
+lib: C:\Users\rezor\MCreatorWorkspaces\jade_horizen\build\moddev\artifacts\forge-1.20.1-47.4.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.10\51e6a22c6c716beb11e244bf5b8be480f51dd6b5\securejarhandler-2.1.10.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlloader\1.20.1-47.4.0\350292a3c597f65d130e48b6e419a2b21cba2ac1\fmlloader-1.20.1-47.4.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\coremods\5.2.4\e30bab269d896613e38396274711410b3a0e4b87\coremods-5.2.4.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\cpw.mods\modlauncher\10.0.9\6d9443f56f50bb85cea383686ff9c867391458b\modlauncher-10.0.9.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.openjdk.nashorn\nashorn-core\15.4\f67f5ffaa5f5130cf6fb9b133da00c7df3b532a5\nashorn-core-15.4.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.7.1\406c6a2225cfe1819f102a161e54cc16a5c24f75\asm-commons-9.7.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.7.1\9e23359b598ec6b74b23e53110dd5c577adf2243\asm-util-9.7.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.7.1\f97a3b319f0ed6a8cd944dc79060d3912a28985f\asm-analysis-9.7.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.7.1\3a53139787663b139de76b627fca0084ab60d32c\asm-tree-9.7.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.7.1\f0ed132a49244b042cd0e15702ab9f2ce3cc8436\asm-9.7.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\accesstransformers\8.0.4\272d240aa73f42195b2a68e2ebd8b701ecf41f63\accesstransformers-8.0.4.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.antlr\antlr4\4.9.1\e92af8ab33e428461927b484e90bb155a4f3a052\antlr4-4.9.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.antlr\antlr4-runtime\4.9.1\428664f05d2b7f7b7610204b5aa7c1763f62011a\antlr4-runtime-4.9.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.4.0\235975dafa4309945b59c56b53f31dc5b65a6051\fmlcore-1.20.1-47.4.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\eventbus\6.0.5\699143dd438431d06b57416944f7cedbe52e1475\eventbus-6.0.5.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\forgespi\7.0.1\3b4972a0cdb135853dba219be61a79b22cff1309\forgespi-7.0.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\unsafe\0.2.0\54d7a0a5e8fdb71b973025caa46f341ae5904f39\unsafe-0.2.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.1.5\e31dad26696043b540681aabc93e2001a1a2cd44\mergetool-1.1.5.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.1.5\f3da18e12c696d35a47c82cbb2cc8b5aa15e1154\mergetool-1.1.5-api.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.electronwill.night-config\toml\3.6.4\51d6cefb2b55ee55ee26b16391212fb2c7dfb4f4\toml-3.6.4.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.electronwill.night-config\core\3.6.4\510f174abbf1c947494db50ef2445683bd52c230\core-3.6.4.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarSelector\0.3.19\376cc9c8ea60720cf027c01fc033de915699801c\JarJarSelector-0.3.19.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarMetadata\0.3.19\83feaa9b770e6ac0e96ee4fc23fa89325c5fe2\JarJarMetadata-0.3.19.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.8.5\4433f50c07debefaed0553bd0068f4f48d449313\maven-artifact-3.8.5.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.jodah\typetools\0.6.3\a01aaa6ddaea9ec07ec4f209487b7a46a526283a\typetools-0.6.3.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecrell\terminalconsoleappender\1.2.0\96d02cd3b384ff015a8fef4223bcb4ccf1717c95\terminalconsoleappender-1.2.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.spongepowered\mixin\0.8.5\9d1c0c3a304ae6697ecd477218fa61b850bf57fc\mixin-0.8.5.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarFileSystems\0.3.19\2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020\JarJarFileSystems-0.3.19.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlearlydisplay\1.20.1-47.4.0\5a0c2d1a65a422bd0e64548e58b70f4d011ef788\fmlearlydisplay-1.20.1-47.4.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.4.0\f0c0b352173d0a378cbdcec9cfc4ba65899a721\javafmllanguage-1.20.1-47.4.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.4.0\e862740d8c84d08dbfedea412bef88fe42e727c5\lowcodelanguage-1.20.1-47.4.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.4.0\5719b3a297a33f877ed5dde4cb4bd75c859096af\mclanguage-1.20.1-47.4.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\resources-2.1\38\c7d29380ddb38becad7c0819b5b325e43bca23f0\mcp_config-1.20.1.zip
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.3.0\cf43b5391de623b36fe066a21127baef82c64022\plexus-utils-3.3.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.12.0\c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e\commons-lang3-3.12.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.8.1\4ac28ff2f1ddf05dae3043a190451e8c46b73c31\log4j-core-2.8.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.10\dd9b193aef96e973d5a11ab13cd17430c2e4306b\gson-2.10.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.google.guava\guava\31.1-jre\60458f877d055d0c9114d9e1a2efb737b4bc282c\guava-31.1-jre.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.machinezoo.noexception\noexception\1.7.1\b65330c98e38a1f915fa54a6e5eca496505e3f0a\noexception-1.7.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.8.0-beta4\83b0359d847ee053d745be7ec0d8e9e8a44304b4\slf4j-api-1.8.0-beta4.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.19.0\ea1b37f38c327596b216542bc636cfdc0b8036fa\log4j-api-2.19.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\logging\1.1.1\832b8e6674a9b325a5175a3a6267dfaf34c85139\logging-1.1.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.github.oshi\oshi-core\6.2.2\54f5efc19bca95d709d9a37d19ffcbba3d21c1a6\oshi-core-6.2.2.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.google.guava\failureaccess\1.0.1\1dcf1de382a0bf95a3d8b0849546c88bac1292c9\failureaccess-1.0.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\61.1\28d33b5e44e72edcc66a5da7a34a42147f38d987\icu4j-61.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\authlib\4.0.43\2ff9d747a77570a07a60d32ac77eb6162ad2a2d9\authlib-4.0.43.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\blocklist\1.0.10\5c685c5ffa94c4cd39496c7184c1d122e515ecef\blocklist-1.0.10.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.1.8\5244ce82c3337bba4a196a3ce858bfaecc74404a\brigadier-1.1.8.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\datafixerupper\6.0.8\3ba4a30557a9b057760af4011f909ba619fc5125\datafixerupper-6.0.8.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\patchy\2.2.10\da05971b07cbb379d002cf7eaec6a2048211fefc\patchy-2.2.10.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.17.9\3cad216e3a7f0c19b4b394388bc9ffc446f13b14\text2speech-1.17.9.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.15\49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d\commons-codec-1.15.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.11.0\a2503f302b11ebde7ebc3df41daebe0e4eea3689\commons-io-2.11.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.2\4bfc12adfe4842bf07b657f0369c4cb522955686\commons-logging-1.2.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-buffer\4.1.82.Final\a544270cf1ae8b8077082f5036436a9a9971ea71\netty-buffer-4.1.82.Final.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-codec\4.1.82.Final\b77200379acb345a9ffdece1c605e591ac3e4e0a\netty-codec-4.1.82.Final.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-common\4.1.82.Final\22d148e85c3f5ebdacc0ce1f5aabb1d420f73f3\netty-common-4.1.82.Final.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-handler\4.1.82.Final\644041d1fa96a5d3130a29e8978630d716d76e38\netty-handler-4.1.82.Final.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-resolver\4.1.82.Final\38f665ae8dcd29032eea31245ba7806bed2e0fa8\netty-resolver-4.1.82.Final.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-transport-classes-epoll\4.1.82.Final\e7c7dd18deac93105797f30057c912651ea76521\netty-transport-classes-epoll-4.1.82.Final.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-unix-common\4.1.82.Final\3e895b35ca1b8a0eca56cacff4c2dde5d2c6abce\netty-transport-native-unix-common-4.1.82.Final.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-transport\4.1.82.Final\e431a218d91acb6476ccad5f5aafde50aa3945ca\netty-transport-4.1.82.Final.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.5.9\bb7ea75ecdb216654237830b3a96d87ad91f8cc5\fastutil-8.5.9.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna-platform\5.12.1\97406a297c852f4a41e688a176ec675f72e8329\jna-platform-5.12.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\5.12.1\b1e93a735caea94f503e95e6fe79bf9cdc1e985d\jna-5.12.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.21\4ec95b60d4e86b5c95a0e919cb172a0af98011ef\commons-compress-1.21.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.5.13\e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada\httpclient-4.5.13.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.15\7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d\httpcore-4.4.15.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j2-impl\2.19.0\5c04bfdd63ce9dceb2e284b81e96b6a70010ee10\log4j-slf4j2-impl-2.19.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.joml\joml\1.10.5\22566d58af70ad3d72308bab63b8339906deb649\joml-1.10.5.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\cbac1b8d30cb4795149c1ef540f912671a8616d0\lwjgl-glfw-3.3.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\a817bcf213db49f710603677457567c37d53e103\lwjgl-jemalloc-3.3.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\2623a6b8ae1dfcd880738656a9f0243d2e6840bd\lwjgl-openal-3.3.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\831a5533a21a5f4f81bbc51bb13e9899319b5411\lwjgl-opengl-3.3.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\b119297cf8ed01f247abe8685857f8e7fcf5980f\lwjgl-stb-3.3.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\ff1914111ef2e3e0110ef2dabc8d8cdaad82347\lwjgl-tinyfd-3.3.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\ae58664f88e18a9bb2c77b063833ca7aaec484cb\lwjgl-3.3.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\ca.weblite\java-objc-bridge\1.1\1227f9e0666314f9de41477e3ec277e542ed7f7b\java-objc-bridge-1.1.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.antlr\ST4\4.3\92f2c1ad8d84abcbeead6cf7f2c53a04166293c2\ST4-4.3.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.antlr\antlr-runtime\3.5.2\cd9cd41361c155f3af0f653009dcecb08d8b4afd\antlr-runtime-3.5.2.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.abego.treelayout\org.abego.treelayout.core\1.0.3\457216e8e6578099ae63667bb1e4439235892028\org.abego.treelayout.core-1.0.3.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.glassfish\javax.json\1.0.4\3178f73569fd7a1e5ffc464e680f7a8cc784b85a\javax.json-1.0.4.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.google.guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\b421526c5f297295adef1c886e5246c39d4ac629\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\org.checkerframework\checker-qual\3.12.0\d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5\checker-qual-3.12.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.11.0\c5a0ace696d3f8b1c1d8cc036d8c03cc0cbe6b69\error_prone_annotations-2.11.0.jar
+lib: C:\Users\rezor\.mcreator\gradle\caches\modules-2\files-2.1\com.google.j2objc\j2objc-annotations\1.3\ba035118bc8bac37d7eff77700720999acd9986d\j2objc-annotations-1.3.jar
+log: null
+input: C:\Users\rezor\MCreatorWorkspaces\jade_horizen\build\devlibs\modid-1.0.jar
+output: C:\Users\rezor\MCreatorWorkspaces\jade_horizen\build\libs\modid-1.0.jar
+threads: 16
+Names: C:\Users\rezor\MCreatorWorkspaces\jade_horizen\build\moddev\artifacts\namedToIntermediate.tsrg(reversed: false)
+Fix Annotations: false
+Unfinal Parameters: false
+Fix Records: false
+Fix Identifiers: false
+Fix SourceFile: false
+Fix Line Numbers: false
+Strip codesigning signatures: ALL
+Adding Libraries to Inheritance
+Reading Input: C:\Users\rezor\MCreatorWorkspaces\jade_horizen\build\devlibs\modid-1.0.jar
+Adding input to inheritance map
+Processing entries
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockcrosspathBlock/rotate(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Rotation;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/state/BlockBehaviour/rotate(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Rotation;)Lnet/minecraft/world/level/block/state/BlockState;: rotate -> m_6843_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockcrosspathBlock/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockallsideBlock/rotate(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Rotation;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/state/BlockBehaviour/rotate(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Rotation;)Lnet/minecraft/world/level/block/state/BlockState;: rotate -> m_6843_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockallsideBlock/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/GoldveinBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/PurejadeBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockcrosspathBlock/mirror(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Mirror;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/state/BlockBehaviour/mirror(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Mirror;)Lnet/minecraft/world/level/block/state/BlockState;: mirror -> m_6943_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockcrosspathBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/JadeplattingBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockcrosspathBlock/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/AncientgoldBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/JaderockBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedobsidianBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockallsideBlock/mirror(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Mirror;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/state/BlockBehaviour/mirror(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Mirror;)Lnet/minecraft/world/level/block/state/BlockState;: mirror -> m_6943_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/JadeiteBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/ThejadeseaPortalBlock/entityInside(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/Entity;)V from net/minecraft/world/level/block/NetherPortalBlock/entityInside(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/Entity;)V: entityInside -> m_7892_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockallsideBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockBlock/rotate(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Rotation;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/state/BlockBehaviour/rotate(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Rotation;)Lnet/minecraft/world/level/block/state/BlockState;: rotate -> m_6843_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/JadeglassBlock/getVisualShape(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/phys/shapes/CollisionContext;)Lnet/minecraft/world/phys/shapes/VoxelShape; from net/minecraft/world/level/block/state/BlockBehaviour/getVisualShape(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/phys/shapes/CollisionContext;)Lnet/minecraft/world/phys/shapes/VoxelShape;: getVisualShape -> m_5909_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockturnBlock/rotate(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Rotation;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/state/BlockBehaviour/rotate(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Rotation;)Lnet/minecraft/world/level/block/state/BlockState;: rotate -> m_6843_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockallsideBlock/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/JadeglassBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/SolidjadeBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/ThejadeseaPortalBlock/animateTick(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V from net/minecraft/world/level/block/NetherPortalBlock/animateTick(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V: animateTick -> m_214162_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockBlock/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/QuantumoreBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockturnBlock/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/ThejadeseaPortalBlock/updateShape(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/Direction;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelAccessor;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/NetherPortalBlock/updateShape(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/Direction;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelAccessor;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/block/state/BlockState;: updateShape -> m_7417_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/ThejadeseaPortalBlock/randomTick(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V from net/minecraft/world/level/block/NetherPortalBlock/randomTick(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V: randomTick -> m_213898_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockBlock/mirror(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Mirror;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/state/BlockBehaviour/mirror(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Mirror;)Lnet/minecraft/world/level/block/state/BlockState;: mirror -> m_6943_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockturnBlock/mirror(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Mirror;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/state/BlockBehaviour/mirror(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/Mirror;)Lnet/minecraft/world/level/block/state/BlockState;: mirror -> m_6943_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockBlock/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockturnBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/jadehorizen/block/InfusedironblockturnBlock/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modelcyberg_zombie/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modeljadecore/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modelalien_craft/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modelcyber/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modelcyberg_zombie/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V from net/minecraft/client/model/Model/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V: renderToBuffer -> m_7695_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modeljadecore/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V from net/minecraft/client/model/Model/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V: renderToBuffer -> m_7695_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modelalien_craft/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V from net/minecraft/client/model/Model/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V: renderToBuffer -> m_7695_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modelcyber/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V from net/minecraft/client/model/Model/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V: renderToBuffer -> m_7695_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modeljade_crawler/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modeljade_raft/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modeljade_crawler/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V from net/minecraft/client/model/Model/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V: renderToBuffer -> m_7695_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modeljade_raft/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V from net/minecraft/client/model/Model/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V: renderToBuffer -> m_7695_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modellightcycle/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modellightcycle/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V from net/minecraft/client/model/Model/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V: renderToBuffer -> m_7695_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modelthe_eye/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/AliencraftRenderer$AnimatedModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/mcreator/jadehorizen/client/model/Modelalien_craft/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/model/Modelthe_eye/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V from net/minecraft/client/model/Model/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V: renderToBuffer -> m_7695_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/CybergzombieRenderer$AnimatedModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/mcreator/jadehorizen/client/model/Modelcyberg_zombie/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/AliencraftRenderer$AnimatedModel$1/root()Lnet/minecraft/client/model/geom/ModelPart; from net/minecraft/client/model/HierarchicalModel/root()Lnet/minecraft/client/model/geom/ModelPart;: root -> m_142109_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/CybergzombieRenderer$AnimatedModel$1/root()Lnet/minecraft/client/model/geom/ModelPart; from net/minecraft/client/model/HierarchicalModel/root()Lnet/minecraft/client/model/geom/ModelPart;: root -> m_142109_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/CybergzombieRenderer$AnimatedModel$1/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/AliencraftRenderer$AnimatedModel$1/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/AliencraftRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent;: getHurtSound -> m_7975_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity/checkFallDamage(DZLnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)V from net/minecraft/world/entity/LivingEntity/checkFallDamage(DZLnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)V: checkFallDamage -> m_7840_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/entity/Entity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity/getDeathSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getDeathSound()Lnet/minecraft/sounds/SoundEvent;: getDeathSound -> m_5592_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity/createNavigation(Lnet/minecraft/world/level/Level;)Lnet/minecraft/world/entity/ai/navigation/PathNavigation; from net/minecraft/world/entity/Mob/createNavigation(Lnet/minecraft/world/level/Level;)Lnet/minecraft/world/entity/ai/navigation/PathNavigation;: createNavigation -> m_6037_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V from net/minecraft/world/entity/Mob/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V: dropCustomDeathLoot -> m_7472_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z from net/minecraft/world/entity/LivingEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z: hurt -> m_6469_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity/aiStep()V from net/minecraft/world/entity/monster/Monster/aiStep()V: aiStep -> m_8107_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity/getMobType()Lnet/minecraft/world/entity/MobType; from net/minecraft/world/entity/LivingEntity/getMobType()Lnet/minecraft/world/entity/MobType;: getMobType -> m_6336_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity/causeFallDamage(FFLnet/minecraft/world/damagesource/DamageSource;)Z from net/minecraft/world/entity/LivingEntity/causeFallDamage(FFLnet/minecraft/world/damagesource/DamageSource;)Z: causeFallDamage -> m_142535_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/CybergzombieEntity/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent;: getHurtSound -> m_7975_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity/setNoGravity(Z)V from net/minecraft/world/entity/Entity/setNoGravity(Z)V: setNoGravity -> m_20242_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity/registerGoals()V from net/minecraft/world/entity/Mob/registerGoals()V: registerGoals -> m_8099_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity/fireImmune()Z from net/minecraft/world/entity/Entity/fireImmune()Z: fireImmune -> m_5825_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/CybergzombieRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/CybergzombieEntity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/entity/Entity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/CybergzombieEntity/getDeathSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getDeathSound()Lnet/minecraft/sounds/SoundEvent;: getDeathSound -> m_5592_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/CybergzombieEntity/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V from net/minecraft/world/entity/Mob/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V: dropCustomDeathLoot -> m_7472_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/CybergzombieEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z from net/minecraft/world/entity/LivingEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z: hurt -> m_6469_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/CybergzombieEntity/getMobType()Lnet/minecraft/world/entity/MobType; from net/minecraft/world/entity/LivingEntity/getMobType()Lnet/minecraft/world/entity/MobType;: getMobType -> m_6336_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/CybergzombieEntity/registerGoals()V from net/minecraft/world/entity/Mob/registerGoals()V: registerGoals -> m_8099_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/CybergzombieEntity/fireImmune()Z from net/minecraft/world/entity/Entity/fireImmune()Z: fireImmune -> m_5825_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/FriendcraftRenderer$AnimatedModel$1/root()Lnet/minecraft/client/model/geom/ModelPart; from net/minecraft/client/model/HierarchicalModel/root()Lnet/minecraft/client/model/geom/ModelPart;: root -> m_142109_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/FriendcraftRenderer$AnimatedModel$1/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/FriendcraftRenderer$AnimatedModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/mcreator/jadehorizen/client/model/Modelalien_craft/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/FriendcraftRenderer/scale(Lnet/minecraft/world/entity/LivingEntity;Lcom/mojang/blaze3d/vertex/PoseStack;F)V from net/minecraft/client/renderer/entity/LivingEntityRenderer/scale(Lnet/minecraft/world/entity/LivingEntity;Lcom/mojang/blaze3d/vertex/PoseStack;F)V: scale -> m_7546_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/JadecoreRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/FriendcraftRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/JadecrawlerRenderer$AnimatedModel$1/root()Lnet/minecraft/client/model/geom/ModelPart; from net/minecraft/client/model/HierarchicalModel/root()Lnet/minecraft/client/model/geom/ModelPart;: root -> m_142109_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/JadecrawlerRenderer$AnimatedModel$1/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/JadecrawlerRenderer$AnimatedModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/mcreator/jadehorizen/client/model/Modelcyber/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecrawlerEntity/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent;: getHurtSound -> m_7975_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecoreEntity/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent;: getHurtSound -> m_7975_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecrawlerEntity/tick()V from net/minecraft/world/entity/Mob/tick()V: tick -> m_8119_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecrawlerEntity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/entity/Entity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecrawlerEntity/getDeathSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getDeathSound()Lnet/minecraft/sounds/SoundEvent;: getDeathSound -> m_5592_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecrawlerEntity/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V from net/minecraft/world/entity/Mob/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V: dropCustomDeathLoot -> m_7472_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecrawlerEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z from net/minecraft/world/entity/LivingEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z: hurt -> m_6469_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecrawlerEntity/getMobType()Lnet/minecraft/world/entity/MobType; from net/minecraft/world/entity/LivingEntity/getMobType()Lnet/minecraft/world/entity/MobType;: getMobType -> m_6336_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecrawlerEntity/registerGoals()V from net/minecraft/world/entity/Mob/registerGoals()V: registerGoals -> m_8099_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecrawlerEntity/fireImmune()Z from net/minecraft/world/entity/Entity/fireImmune()Z: fireImmune -> m_5825_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/JadecrawlerRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecoreEntity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/entity/Entity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecoreEntity/getDeathSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getDeathSound()Lnet/minecraft/sounds/SoundEvent;: getDeathSound -> m_5592_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/JadetechraftRenderer$AnimatedModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/mcreator/jadehorizen/client/model/Modeljade_raft/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecoreEntity/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V from net/minecraft/world/entity/Mob/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V: dropCustomDeathLoot -> m_7472_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/JadecycleRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/JadecycleRenderer$AnimatedModel$1/root()Lnet/minecraft/client/model/geom/ModelPart; from net/minecraft/client/model/HierarchicalModel/root()Lnet/minecraft/client/model/geom/ModelPart;: root -> m_142109_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/JadecycleRenderer$AnimatedModel$1/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/JadetechraftRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecycleEntity/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent;: getHurtSound -> m_7975_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/JadecycleRenderer$AnimatedModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/mcreator/jadehorizen/client/model/Modellightcycle/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/JadetechraftRenderer$AnimatedModel$1/root()Lnet/minecraft/client/model/geom/ModelPart; from net/minecraft/client/model/HierarchicalModel/root()Lnet/minecraft/client/model/geom/ModelPart;: root -> m_142109_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecoreEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z from net/minecraft/world/entity/LivingEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z: hurt -> m_6469_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadetechraftEntity/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent;: getHurtSound -> m_7975_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecoreEntity/getMobType()Lnet/minecraft/world/entity/MobType; from net/minecraft/world/entity/LivingEntity/getMobType()Lnet/minecraft/world/entity/MobType;: getMobType -> m_6336_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecoreEntity/registerGoals()V from net/minecraft/world/entity/Mob/registerGoals()V: registerGoals -> m_8099_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadetechraftEntity/mobInteract(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/entity/Mob/mobInteract(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;: mobInteract -> m_6071_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/QuantumcrawlerRenderer$AnimatedModel$1/root()Lnet/minecraft/client/model/geom/ModelPart; from net/minecraft/client/model/HierarchicalModel/root()Lnet/minecraft/client/model/geom/ModelPart;: root -> m_142109_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadetechraftEntity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/entity/Entity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/QuantumcrawlerRenderer$AnimatedModel$1/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/JadetechraftRenderer$AnimatedModel$1/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecycleEntity/mobInteract(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/entity/Mob/mobInteract(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;: mobInteract -> m_6071_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecycleEntity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/entity/Entity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecoreEntity/fireImmune()Z from net/minecraft/world/entity/Entity/fireImmune()Z: fireImmune -> m_5825_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadetechraftEntity/getDeathSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getDeathSound()Lnet/minecraft/sounds/SoundEvent;: getDeathSound -> m_5592_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecycleEntity/getDeathSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getDeathSound()Lnet/minecraft/sounds/SoundEvent;: getDeathSound -> m_5592_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecycleEntity/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V from net/minecraft/world/entity/Mob/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V: dropCustomDeathLoot -> m_7472_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadetechraftEntity/travel(Lnet/minecraft/world/phys/Vec3;)V from net/minecraft/world/entity/LivingEntity/travel(Lnet/minecraft/world/phys/Vec3;)V: travel -> m_7023_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/QuantumcrawlerRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecycleEntity/travel(Lnet/minecraft/world/phys/Vec3;)V from net/minecraft/world/entity/LivingEntity/travel(Lnet/minecraft/world/phys/Vec3;)V: travel -> m_7023_
+Conflicting propagated mapping for net/mcreator/jadehorizen/client/renderer/QuantumcrawlerRenderer$AnimatedModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/mcreator/jadehorizen/client/model/Modeljade_crawler/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadetechraftEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z from net/minecraft/world/entity/LivingEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z: hurt -> m_6469_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecycleEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z from net/minecraft/world/entity/LivingEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z: hurt -> m_6469_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadetechraftEntity/getMobType()Lnet/minecraft/world/entity/MobType; from net/minecraft/world/entity/LivingEntity/getMobType()Lnet/minecraft/world/entity/MobType;: getMobType -> m_6336_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecycleEntity/getMobType()Lnet/minecraft/world/entity/MobType; from net/minecraft/world/entity/LivingEntity/getMobType()Lnet/minecraft/world/entity/MobType;: getMobType -> m_6336_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecycleEntity/registerGoals()V from net/minecraft/world/entity/Mob/registerGoals()V: registerGoals -> m_8099_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadetechraftEntity/registerGoals()V from net/minecraft/world/entity/Mob/registerGoals()V: registerGoals -> m_8099_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecycleEntity/fireImmune()Z from net/minecraft/world/entity/Entity/fireImmune()Z: fireImmune -> m_5825_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadetechraftEntity/fireImmune()Z from net/minecraft/world/entity/Entity/fireImmune()Z: fireImmune -> m_5825_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/QuantumcrawlerEntity/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent;: getHurtSound -> m_7975_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/QuantumcrawlerEntity/tick()V from net/minecraft/world/entity/Mob/tick()V: tick -> m_8119_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/QuantumcrawlerEntity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/entity/Entity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/QuantumcrawlerEntity/getDeathSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getDeathSound()Lnet/minecraft/sounds/SoundEvent;: getDeathSound -> m_5592_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/QuantumcrawlerEntity/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V from net/minecraft/world/entity/Mob/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V: dropCustomDeathLoot -> m_7472_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/QuantumcrawlerEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z from net/minecraft/world/entity/LivingEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z: hurt -> m_6469_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/QuantumcrawlerEntity/getMobType()Lnet/minecraft/world/entity/MobType; from net/minecraft/world/entity/LivingEntity/getMobType()Lnet/minecraft/world/entity/MobType;: getMobType -> m_6336_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity$1/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D: getAttackReachSqr -> m_6639_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/CybergzombieEntity$1/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D: getAttackReachSqr -> m_6639_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity$2/getPosition()Lnet/minecraft/world/phys/Vec3; from net/minecraft/world/entity/ai/goal/RandomStrollGoal/getPosition()Lnet/minecraft/world/phys/Vec3;: getPosition -> m_7037_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity$1/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D: getAttackReachSqr -> m_6639_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/AliencraftEntity$2/getPosition()Lnet/minecraft/world/phys/Vec3; from net/minecraft/world/entity/ai/goal/RandomStrollGoal/getPosition()Lnet/minecraft/world/phys/Vec3;: getPosition -> m_7037_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/QuantumcrawlerEntity/registerGoals()V from net/minecraft/world/entity/Mob/registerGoals()V: registerGoals -> m_8099_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecoreEntity$1/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D: getAttackReachSqr -> m_6639_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/QuantumcrawlerEntity/fireImmune()Z from net/minecraft/world/entity/Entity/fireImmune()Z: fireImmune -> m_5825_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecrawlerEntity$1/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D: getAttackReachSqr -> m_6639_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/JadecycleEntity$1/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D: getAttackReachSqr -> m_6639_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/LivingEntity/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent;: getHurtSound -> m_7975_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/getBreedOffspring(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/AgeableMob;)Lnet/minecraft/world/entity/AgeableMob; from net/minecraft/world/entity/AgeableMob/getBreedOffspring(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/AgeableMob;)Lnet/minecraft/world/entity/AgeableMob;: getBreedOffspring -> m_142606_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/mobInteract(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/entity/animal/Animal/mobInteract(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;: mobInteract -> m_6071_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/checkFallDamage(DZLnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)V from net/minecraft/world/entity/LivingEntity/checkFallDamage(DZLnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)V: checkFallDamage -> m_7840_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/entity/Entity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/getDeathSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/LivingEntity/getDeathSound()Lnet/minecraft/sounds/SoundEvent;: getDeathSound -> m_5592_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/createNavigation(Lnet/minecraft/world/level/Level;)Lnet/minecraft/world/entity/ai/navigation/PathNavigation; from net/minecraft/world/entity/Mob/createNavigation(Lnet/minecraft/world/level/Level;)Lnet/minecraft/world/entity/ai/navigation/PathNavigation;: createNavigation -> m_6037_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V from net/minecraft/world/entity/Mob/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V: dropCustomDeathLoot -> m_7472_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z from net/minecraft/world/entity/animal/Animal/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z: hurt -> m_6469_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/QuantumcrawlerEntity$1/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D: getAttackReachSqr -> m_6639_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/aiStep()V from net/minecraft/world/entity/animal/Animal/aiStep()V: aiStep -> m_8107_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/getMobType()Lnet/minecraft/world/entity/MobType; from net/minecraft/world/entity/LivingEntity/getMobType()Lnet/minecraft/world/entity/MobType;: getMobType -> m_6336_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/causeFallDamage(FFLnet/minecraft/world/damagesource/DamageSource;)Z from net/minecraft/world/entity/LivingEntity/causeFallDamage(FFLnet/minecraft/world/damagesource/DamageSource;)Z: causeFallDamage -> m_142535_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/setNoGravity(Z)V from net/minecraft/world/entity/Entity/setNoGravity(Z)V: setNoGravity -> m_20242_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/registerGoals()V from net/minecraft/world/entity/Mob/registerGoals()V: registerGoals -> m_8099_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/isFood(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/entity/animal/Animal/isFood(Lnet/minecraft/world/item/ItemStack;)Z: isFood -> m_6898_
+Conflicting propagated mapping for net/mcreator/jadehorizen/entity/FriendcraftEntity/fireImmune()Z from net/minecraft/world/entity/Entity/fireImmune()Z: fireImmune -> m_5825_
+Conflicting propagated mapping for net/minecraftforge/event/BuildCreativeModeTabContentsEvent/accept(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/CreativeModeTab$TabVisibility;)V from net/minecraft/world/item/CreativeModeTab$Output/accept(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/CreativeModeTab$TabVisibility;)V: accept -> m_246267_
+Conflicting propagated mapping for net/mcreator/jadehorizen/item/JadetecharmorItem$1/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/ArmorMaterial/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6230_
+Conflicting propagated mapping for net/mcreator/jadehorizen/item/JadetecharmorItem$1/getEnchantmentValue()I from net/minecraft/world/item/ArmorMaterial/getEnchantmentValue()I: getEnchantmentValue -> m_6646_
+Conflicting propagated mapping for net/mcreator/jadehorizen/item/JadetecharmorItem$1/getKnockbackResistance()F from net/minecraft/world/item/ArmorMaterial/getKnockbackResistance()F: getKnockbackResistance -> m_6649_
+Conflicting propagated mapping for net/mcreator/jadehorizen/item/JadetecharmorItem$1/getToughness()F from net/minecraft/world/item/ArmorMaterial/getToughness()F: getToughness -> m_6651_
+Conflicting propagated mapping for net/mcreator/jadehorizen/item/JadetecharmorItem$1/getName()Ljava/lang/String; from net/minecraft/world/item/ArmorMaterial/getName()Ljava/lang/String;: getName -> m_6082_
+Conflicting propagated mapping for net/mcreator/jadehorizen/item/JadetecharmorItem$1/getDefenseForType(Lnet/minecraft/world/item/ArmorItem$Type;)I from net/minecraft/world/item/ArmorMaterial/getDefenseForType(Lnet/minecraft/world/item/ArmorItem$Type;)I: getDefenseForType -> m_7366_
+Conflicting propagated mapping for net/mcreator/jadehorizen/item/JadetecharmorItem$1/getEquipSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/item/ArmorMaterial/getEquipSound()Lnet/minecraft/sounds/SoundEvent;: getEquipSound -> m_7344_
+Conflicting propagated mapping for net/mcreator/jadehorizen/item/JadetecharmorItem$1/getDurabilityForType(Lnet/minecraft/world/item/ArmorItem$Type;)I from net/minecraft/world/item/ArmorMaterial/getDurabilityForType(Lnet/minecraft/world/item/ArmorItem$Type;)I: getDurabilityForType -> m_266425_
+Conflicting propagated mapping for net/minecraft/world/entity/LivingEntity/lambda$addAdditionalSaveData$3(Lnet/minecraft/nbt/CompoundTag;Lnet/minecraft/nbt/Tag;)V from net/minecraft/world/entity/player/Player/lambda$addAdditionalSaveData$3(Lnet/minecraft/nbt/CompoundTag;Lnet/minecraft/nbt/Tag;)V: lambda$addAdditionalSaveData$3 -> m_219754_
+Conflicting propagated mapping for net/mcreator/jadehorizen/item/ThejadeseaItem/useOn(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/item/Item/useOn(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;: useOn -> m_6225_
+Conflicting propagated mapping for net/minecraftforge/common/ForgeSpawnEggItem/getType(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/EntityType; from net/minecraft/world/item/SpawnEggItem/getType(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/EntityType;: getType -> m_43228_
+Conflicting propagated mapping for net/mcreator/jadehorizen/world/dimension/ThejadeseaDimension$ThejadeseaSpecialEffectsHandler$1/getBrightnessDependentFogColor(Lnet/minecraft/world/phys/Vec3;F)Lnet/minecraft/world/phys/Vec3; from net/minecraft/client/renderer/DimensionSpecialEffects/getBrightnessDependentFogColor(Lnet/minecraft/world/phys/Vec3;F)Lnet/minecraft/world/phys/Vec3;: getBrightnessDependentFogColor -> m_5927_
+Conflicting propagated mapping for net/mcreator/jadehorizen/world/dimension/ThejadeseaDimension$ThejadeseaSpecialEffectsHandler$1/isFoggyAt(II)Z from net/minecraft/client/renderer/DimensionSpecialEffects/isFoggyAt(II)Z: isFoggyAt -> m_5781_
+Adding extras
+Sorting
+Writing Output: C:\Users\rezor\MCreatorWorkspaces\jade_horizen\build\libs\modid-1.0.jar
+  META-INF/
+  META-INF/MANIFEST.MF
+  META-INF/mods.toml
+  assets/
+  assets/jade_horizen/
+  assets/jade_horizen/blockstates/
+  assets/jade_horizen/blockstates/ancientgold.json
+  assets/jade_horizen/blockstates/goldvein.json
+  assets/jade_horizen/blockstates/infusedironblock.json
+  assets/jade_horizen/blockstates/infusedironblockallside.json
+  assets/jade_horizen/blockstates/infusedironblockcrosspath.json
+  assets/jade_horizen/blockstates/infusedironblockturn.json
+  assets/jade_horizen/blockstates/infusedobsidian.json
+  assets/jade_horizen/blockstates/jadeglass.json
+  assets/jade_horizen/blockstates/jadeite.json
+  assets/jade_horizen/blockstates/jadeplatting.json
+  assets/jade_horizen/blockstates/jaderock.json
+  assets/jade_horizen/blockstates/purejade.json
+  assets/jade_horizen/blockstates/quantumore.json
+  assets/jade_horizen/blockstates/solidjade.json
+  assets/jade_horizen/blockstates/thejadesea_portal.json
+  assets/jade_horizen/lang/
+  assets/jade_horizen/lang/en_us.json
+  assets/jade_horizen/models/
+  assets/jade_horizen/models/block/
+  assets/jade_horizen/models/block/ancientgold.json
+  assets/jade_horizen/models/block/goldvein.json
+  assets/jade_horizen/models/block/infusedironblock.json
+  assets/jade_horizen/models/block/infusedironblockallside.json
+  assets/jade_horizen/models/block/infusedironblockcrosspath.json
+  assets/jade_horizen/models/block/infusedironblockturn.json
+  assets/jade_horizen/models/block/infusedobsidian.json
+  assets/jade_horizen/models/block/jadeglass.json
+  assets/jade_horizen/models/block/jadeite.json
+  assets/jade_horizen/models/block/jadeplatting.json
+  assets/jade_horizen/models/block/jaderock.json
+  assets/jade_horizen/models/block/purejade.json
+  assets/jade_horizen/models/block/quantumore.json
+  assets/jade_horizen/models/block/solidjade.json
+  assets/jade_horizen/models/block/thejadesea_portal_ew.json
+  assets/jade_horizen/models/block/thejadesea_portal_ns.json
+  assets/jade_horizen/models/item/
+  assets/jade_horizen/models/item/aliencraft_spawn_egg.json
+  assets/jade_horizen/models/item/ancientgold.json
+  assets/jade_horizen/models/item/blueprintpaper.json
+  assets/jade_horizen/models/item/circuit.json
+  assets/jade_horizen/models/item/circuitboard.json
+  assets/jade_horizen/models/item/core.json
+  assets/jade_horizen/models/item/cybergzombie_spawn_egg.json
+  assets/jade_horizen/models/item/friendcraft_spawn_egg.json
+  assets/jade_horizen/models/item/friendcraftblueprint.json
+  assets/jade_horizen/models/item/glond.json
+  assets/jade_horizen/models/item/goldscrap.json
+  assets/jade_horizen/models/item/goldvein.json
+  assets/jade_horizen/models/item/infusedironblock.json
+  assets/jade_horizen/models/item/infusedironblockallside.json
+  assets/jade_horizen/models/item/infusedironblockcrosspath.json
+  assets/jade_horizen/models/item/infusedironblockturn.json
+  assets/jade_horizen/models/item/infusedobsidian.json
+  assets/jade_horizen/models/item/jadecore_spawn_egg.json
+  assets/jade_horizen/models/item/jadecrawler_spawn_egg.json
+  assets/jade_horizen/models/item/jadecycle_spawn_egg.json
+  assets/jade_horizen/models/item/jadeglass.json
+  assets/jade_horizen/models/item/jadeinfusion.json
+  assets/jade_horizen/models/item/jadeite.json
+  assets/jade_horizen/models/item/jadeplatting.json
+  assets/jade_horizen/models/item/jaderock.json
+  assets/jade_horizen/models/item/jadestone.json
+  assets/jade_horizen/models/item/jadetecharmor_boots.json
+  assets/jade_horizen/models/item/jadetecharmor_chestplate.json
+  assets/jade_horizen/models/item/jadetecharmor_helmet.json
+  assets/jade_horizen/models/item/jadetecharmor_leggings.json
+  assets/jade_horizen/models/item/jadetechraft_spawn_egg.json
+  assets/jade_horizen/models/item/jadetrim.json
+  assets/jade_horizen/models/item/purejade.json
+  assets/jade_horizen/models/item/quantumcrawler_spawn_egg.json
+  assets/jade_horizen/models/item/quantumcrystal.json
+  assets/jade_horizen/models/item/quantuminfusion.json
+  assets/jade_horizen/models/item/quantumingot.json
+  assets/jade_horizen/models/item/quantumore.json
+  assets/jade_horizen/models/item/solidjade.json
+  assets/jade_horizen/models/item/steel.json
+  assets/jade_horizen/models/item/thejadesea.json
+  assets/jade_horizen/textures/
+  assets/jade_horizen/textures/block/
+  assets/jade_horizen/textures/block/ancient_metal.png
+  assets/jade_horizen/textures/block/ancient_metal_side.png
+  assets/jade_horizen/textures/block/crying_obsidian_jade.png
+  assets/jade_horizen/textures/block/gold_vein.png
+  assets/jade_horizen/textures/block/infusedironblock.png
+  assets/jade_horizen/textures/block/infusedironblockk.png
+  assets/jade_horizen/textures/block/innfusedironblock.png
+  assets/jade_horizen/textures/block/iron_jade_infused.png
+  assets/jade_horizen/textures/block/jade.png
+  assets/jade_horizen/textures/block/jadedirt.png
+  assets/jade_horizen/textures/block/jadeglass.png
+  assets/jade_horizen/textures/block/jadegrass.png
+  assets/jade_horizen/textures/block/jadeinfusion.png
+  assets/jade_horizen/textures/block/jadeplating.png
+  assets/jade_horizen/textures/block/portal_tex.png
+  assets/jade_horizen/textures/block/pure_jade_cube.png
+  assets/jade_horizen/textures/block/quantum_ore.png
+  assets/jade_horizen/textures/block/solidjade.png
+  assets/jade_horizen/textures/entities/
+  assets/jade_horizen/textures/entities/alien_craft.png
+  assets/jade_horizen/textures/entities/core_reactor.png
+  assets/jade_horizen/textures/entities/cyber_meka_png.png
+  assets/jade_horizen/textures/entities/jada_raft_.png
+  assets/jade_horizen/textures/entities/jade_core_texture.png
+  assets/jade_horizen/textures/entities/jade_crawler_texture.png
+  assets/jade_horizen/textures/entities/jade_cycle.png
+  assets/jade_horizen/textures/entities/the_eye_texture.png
+  assets/jade_horizen/textures/entities/zombie.png
+  assets/jade_horizen/textures/item/
+  assets/jade_horizen/textures/item/_core_reactor_-_blockbench_10_1_2025_11_20_32_am.png
+  assets/jade_horizen/textures/item/ancient_debree.png
+  assets/jade_horizen/textures/item/blueprint_paper.png
+  assets/jade_horizen/textures/item/chessplate.png
+  assets/jade_horizen/textures/item/chunk_of_pure_jade.png
+  assets/jade_horizen/textures/item/circut.png
+  assets/jade_horizen/textures/item/circut_board.png
+  assets/jade_horizen/textures/item/core.png
+  assets/jade_horizen/textures/item/feet.png
+  assets/jade_horizen/textures/item/friendcraftblueprint.png
+  assets/jade_horizen/textures/item/glond.png
+  assets/jade_horizen/textures/item/helmet.png
+  assets/jade_horizen/textures/item/igniter.png
+  assets/jade_horizen/textures/item/jade_trim.png
+  assets/jade_horizen/textures/item/jadeinfusion.png
+  assets/jade_horizen/textures/item/leggings.png
+  assets/jade_horizen/textures/item/pic.png
+  assets/jade_horizen/textures/item/quantum_crystal.png
+  assets/jade_horizen/textures/item/quantum_infusion.png
+  assets/jade_horizen/textures/item/quantumingot.png
+  assets/jade_horizen/textures/item/steel.png
+  assets/jade_horizen/textures/models/
+  assets/jade_horizen/textures/models/armor/
+  assets/jade_horizen/textures/models/armor/armor_layerr_layer_1.png
+  assets/jade_horizen/textures/models/armor/armor_layerr_layer_2.png
+  data/
+  data/jade_horizen/
+  data/jade_horizen/advancements/
+  data/jade_horizen/advancements/recipes/
+  data/jade_horizen/advancements/recipes/circuitrecipe.json
+  data/jade_horizen/advancements/recipes/circutboardrecipe.json
+  data/jade_horizen/advancements/recipes/corerecipe.json
+  data/jade_horizen/advancements/recipes/friendcraftblueprintrecipe.json
+  data/jade_horizen/advancements/recipes/friendcraftrecipe.json
+  data/jade_horizen/advancements/recipes/glondrecipe.json
+  data/jade_horizen/advancements/recipes/jadecorerecipe.json
+  data/jade_horizen/advancements/recipes/jadecyclerecipe.json
+  data/jade_horizen/advancements/recipes/jadeglassrecipe.json
+  data/jade_horizen/advancements/recipes/jadeplattingrecipe.json
+  data/jade_horizen/advancements/recipes/jaderockrecipe.json
+  data/jade_horizen/advancements/recipes/jadetechbootsrecipe.json
+  data/jade_horizen/advancements/recipes/jadetechchestplaterecipe.json
+  data/jade_horizen/advancements/recipes/jadetechhelmet.json
+  data/jade_horizen/advancements/recipes/jadetechleggingsrecipe.json
+  data/jade_horizen/advancements/recipes/jadetechraftrecipe.json
+  data/jade_horizen/advancements/recipes/jadetrimrecipe.json
+  data/jade_horizen/advancements/recipes/solidjaderecipe.json
+  data/jade_horizen/advancements/recipes/steelrecipe.json
+  data/jade_horizen/advancements/recipes/unstabledevicerecipe.json
+  data/jade_horizen/dimension/
+  data/jade_horizen/dimension/thejadesea.json
+  data/jade_horizen/dimension_type/
+  data/jade_horizen/dimension_type/thejadesea.json
+  data/jade_horizen/forge/
+  data/jade_horizen/forge/biome_modifier/
+  data/jade_horizen/forge/biome_modifier/aliencraft_biome_modifier.json
+  data/jade_horizen/forge/biome_modifier/cybergzombie_biome_modifier.json
+  data/jade_horizen/forge/biome_modifier/goldvein_biome_modifier.json
+  data/jade_horizen/forge/biome_modifier/jadecrawler_biome_modifier.json
+  data/jade_horizen/forge/biome_modifier/jadeite_biome_modifier.json
+  data/jade_horizen/forge/biome_modifier/quantumcrawler_biome_modifier.json
+  data/jade_horizen/forge/biome_modifier/quantumore_biome_modifier.json
+  data/jade_horizen/loot_tables/
+  data/jade_horizen/loot_tables/blocks/
+  data/jade_horizen/loot_tables/blocks/ancientgold.json
+  data/jade_horizen/loot_tables/blocks/goldvein.json
+  data/jade_horizen/loot_tables/blocks/infusedironblock.json
+  data/jade_horizen/loot_tables/blocks/infusedironblockallside.json
+  data/jade_horizen/loot_tables/blocks/infusedironblockcrosspath.json
+  data/jade_horizen/loot_tables/blocks/infusedironblockturn.json
+  data/jade_horizen/loot_tables/blocks/infusedobsidian.json
+  data/jade_horizen/loot_tables/blocks/jadeglass.json
+  data/jade_horizen/loot_tables/blocks/jadeite.json
+  data/jade_horizen/loot_tables/blocks/jadeplatting.json
+  data/jade_horizen/loot_tables/blocks/jaderock.json
+  data/jade_horizen/loot_tables/blocks/purejade.json
+  data/jade_horizen/loot_tables/blocks/quantumore.json
+  data/jade_horizen/loot_tables/blocks/solidjade.json
+  data/jade_horizen/recipes/
+  data/jade_horizen/recipes/circuitboardrecipe.json
+  data/jade_horizen/recipes/circuitrecipe.json
+  data/jade_horizen/recipes/corerecipe.json
+  data/jade_horizen/recipes/friendcraftblueprintrecipe.json
+  data/jade_horizen/recipes/friendcraftrecipe.json
+  data/jade_horizen/recipes/glondrecipe.json
+  data/jade_horizen/recipes/jadecorerecipe.json
+  data/jade_horizen/recipes/jadecyclerecipe.json
+  data/jade_horizen/recipes/jadeglassrecipe.json
+  data/jade_horizen/recipes/jadeplattingrecipe.json
+  data/jade_horizen/recipes/jaderockrecipe.json
+  data/jade_horizen/recipes/jadetechbootsrecipe.json
+  data/jade_horizen/recipes/jadetechchestplaterecipe.json
+  data/jade_horizen/recipes/jadetechhelmet.json
+  data/jade_horizen/recipes/jadetechleggingsrecipe.json
+  data/jade_horizen/recipes/jadetechraftrecipe.json
+  data/jade_horizen/recipes/jadetrimrecipe.json
+  data/jade_horizen/recipes/solidjaderecipe.json
+  data/jade_horizen/recipes/steelrecipe.json
+  data/jade_horizen/recipes/unstabledevicerecipe.json
+  data/jade_horizen/worldgen/
+  data/jade_horizen/worldgen/configured_feature/
+  data/jade_horizen/worldgen/configured_feature/goldvein.json
+  data/jade_horizen/worldgen/configured_feature/jadeite.json
+  data/jade_horizen/worldgen/configured_feature/quantumore.json
+  data/jade_horizen/worldgen/placed_feature/
+  data/jade_horizen/worldgen/placed_feature/goldvein.json
+  data/jade_horizen/worldgen/placed_feature/jadeite.json
+  data/jade_horizen/worldgen/placed_feature/quantumore.json
+  data/minecraft/
+  data/minecraft/tags/
+  data/minecraft/tags/blocks/
+  data/minecraft/tags/blocks/mineable/
+  data/minecraft/tags/blocks/mineable/pickaxe.json
+  data/minecraft/tags/blocks/needs_diamond_tool.json
+  data/minecraft/tags/blocks/needs_iron_tool.json
+  data/minecraft/tags/blocks/overworld_carver_replaceables.json
+  net/
+  net/mcreator/
+  net/mcreator/jadehorizen/
+  net/mcreator/jadehorizen/JadeHorizenMod.class
+  net/mcreator/jadehorizen/block/
+  net/mcreator/jadehorizen/block/AncientgoldBlock.class
+  net/mcreator/jadehorizen/block/GoldveinBlock.class
+  net/mcreator/jadehorizen/block/InfusedironblockBlock.class
+  net/mcreator/jadehorizen/block/InfusedironblockallsideBlock.class
+  net/mcreator/jadehorizen/block/InfusedironblockcrosspathBlock.class
+  net/mcreator/jadehorizen/block/InfusedironblockturnBlock.class
+  net/mcreator/jadehorizen/block/InfusedobsidianBlock.class
+  net/mcreator/jadehorizen/block/JadeglassBlock.class
+  net/mcreator/jadehorizen/block/JadeiteBlock.class
+  net/mcreator/jadehorizen/block/JadeplattingBlock.class
+  net/mcreator/jadehorizen/block/JaderockBlock.class
+  net/mcreator/jadehorizen/block/PurejadeBlock.class
+  net/mcreator/jadehorizen/block/QuantumoreBlock.class
+  net/mcreator/jadehorizen/block/SolidjadeBlock.class
+  net/mcreator/jadehorizen/block/ThejadeseaPortalBlock.class
+  net/mcreator/jadehorizen/client/
+  net/mcreator/jadehorizen/client/model/
+  net/mcreator/jadehorizen/client/model/Modelalien_craft.class
+  net/mcreator/jadehorizen/client/model/Modelcyber.class
+  net/mcreator/jadehorizen/client/model/Modelcyberg_zombie.class
+  net/mcreator/jadehorizen/client/model/Modeljade_crawler.class
+  net/mcreator/jadehorizen/client/model/Modeljade_raft.class
+  net/mcreator/jadehorizen/client/model/Modeljadecore.class
+  net/mcreator/jadehorizen/client/model/Modellightcycle.class
+  net/mcreator/jadehorizen/client/model/Modelthe_eye.class
+  net/mcreator/jadehorizen/client/model/animations/
+  net/mcreator/jadehorizen/client/model/animations/alien_craftAnimation.class
+  net/mcreator/jadehorizen/client/model/animations/cyberAnimation.class
+  net/mcreator/jadehorizen/client/model/animations/cyberg_zombieAnimation.class
+  net/mcreator/jadehorizen/client/model/animations/jade_crawlerAnimation.class
+  net/mcreator/jadehorizen/client/model/animations/jade_raftAnimation.class
+  net/mcreator/jadehorizen/client/model/animations/lightcycleAnimation.class
+  net/mcreator/jadehorizen/client/model/animations/the_eyeAnimation.class
+  net/mcreator/jadehorizen/client/renderer/
+  net/mcreator/jadehorizen/client/renderer/AliencraftRenderer$AnimatedModel$1.class
+  net/mcreator/jadehorizen/client/renderer/AliencraftRenderer$AnimatedModel.class
+  net/mcreator/jadehorizen/client/renderer/AliencraftRenderer.class
+  net/mcreator/jadehorizen/client/renderer/CybergzombieRenderer$AnimatedModel$1.class
+  net/mcreator/jadehorizen/client/renderer/CybergzombieRenderer$AnimatedModel.class
+  net/mcreator/jadehorizen/client/renderer/CybergzombieRenderer.class
+  net/mcreator/jadehorizen/client/renderer/FriendcraftRenderer$AnimatedModel$1.class
+  net/mcreator/jadehorizen/client/renderer/FriendcraftRenderer$AnimatedModel.class
+  net/mcreator/jadehorizen/client/renderer/FriendcraftRenderer.class
+  net/mcreator/jadehorizen/client/renderer/JadecoreRenderer.class
+  net/mcreator/jadehorizen/client/renderer/JadecrawlerRenderer$AnimatedModel$1.class
+  net/mcreator/jadehorizen/client/renderer/JadecrawlerRenderer$AnimatedModel.class
+  net/mcreator/jadehorizen/client/renderer/JadecrawlerRenderer.class
+  net/mcreator/jadehorizen/client/renderer/JadecycleRenderer$AnimatedModel$1.class
+  net/mcreator/jadehorizen/client/renderer/JadecycleRenderer$AnimatedModel.class
+  net/mcreator/jadehorizen/client/renderer/JadecycleRenderer.class
+  net/mcreator/jadehorizen/client/renderer/JadetechraftRenderer$AnimatedModel$1.class
+  net/mcreator/jadehorizen/client/renderer/JadetechraftRenderer$AnimatedModel.class
+  net/mcreator/jadehorizen/client/renderer/JadetechraftRenderer.class
+  net/mcreator/jadehorizen/client/renderer/QuantumcrawlerRenderer$AnimatedModel$1.class
+  net/mcreator/jadehorizen/client/renderer/QuantumcrawlerRenderer$AnimatedModel.class
+  net/mcreator/jadehorizen/client/renderer/QuantumcrawlerRenderer.class
+  net/mcreator/jadehorizen/entity/
+  net/mcreator/jadehorizen/entity/AliencraftEntity$1.class
+  net/mcreator/jadehorizen/entity/AliencraftEntity$2.class
+  net/mcreator/jadehorizen/entity/AliencraftEntity.class
+  net/mcreator/jadehorizen/entity/CybergzombieEntity$1.class
+  net/mcreator/jadehorizen/entity/CybergzombieEntity.class
+  net/mcreator/jadehorizen/entity/FriendcraftEntity$1.class
+  net/mcreator/jadehorizen/entity/FriendcraftEntity$2.class
+  net/mcreator/jadehorizen/entity/FriendcraftEntity.class
+  net/mcreator/jadehorizen/entity/JadecoreEntity$1.class
+  net/mcreator/jadehorizen/entity/JadecoreEntity.class
+  net/mcreator/jadehorizen/entity/JadecrawlerEntity$1.class
+  net/mcreator/jadehorizen/entity/JadecrawlerEntity.class
+  net/mcreator/jadehorizen/entity/JadecycleEntity$1.class
+  net/mcreator/jadehorizen/entity/JadecycleEntity.class
+  net/mcreator/jadehorizen/entity/JadetechraftEntity.class
+  net/mcreator/jadehorizen/entity/QuantumcrawlerEntity$1.class
+  net/mcreator/jadehorizen/entity/QuantumcrawlerEntity.class
+  net/mcreator/jadehorizen/init/
+  net/mcreator/jadehorizen/init/JadeHorizenModBlocks.class
+  net/mcreator/jadehorizen/init/JadeHorizenModEntities.class
+  net/mcreator/jadehorizen/init/JadeHorizenModEntityRenderers.class
+  net/mcreator/jadehorizen/init/JadeHorizenModItems.class
+  net/mcreator/jadehorizen/init/JadeHorizenModModels.class
+  net/mcreator/jadehorizen/init/JadeHorizenModTabs.class
+  net/mcreator/jadehorizen/item/
+  net/mcreator/jadehorizen/item/BlueprintpaperItem.class
+  net/mcreator/jadehorizen/item/CircuitItem.class
+  net/mcreator/jadehorizen/item/CircuitboardItem.class
+  net/mcreator/jadehorizen/item/CoreItem.class
+  net/mcreator/jadehorizen/item/FriendcraftblueprintItem.class
+  net/mcreator/jadehorizen/item/GlondItem.class
+  net/mcreator/jadehorizen/item/GoldscrapItem.class
+  net/mcreator/jadehorizen/item/JadeinfusionItem.class
+  net/mcreator/jadehorizen/item/JadestoneItem.class
+  net/mcreator/jadehorizen/item/JadetecharmorItem$1.class
+  net/mcreator/jadehorizen/item/JadetecharmorItem$Boots.class
+  net/mcreator/jadehorizen/item/JadetecharmorItem$Chestplate.class
+  net/mcreator/jadehorizen/item/JadetecharmorItem$Helmet.class
+  net/mcreator/jadehorizen/item/JadetecharmorItem$Leggings.class
+  net/mcreator/jadehorizen/item/JadetecharmorItem.class
+  net/mcreator/jadehorizen/item/JadetrimItem.class
+  net/mcreator/jadehorizen/item/QuantumcrystalItem.class
+  net/mcreator/jadehorizen/item/QuantuminfusionItem.class
+  net/mcreator/jadehorizen/item/QuantumingotItem.class
+  net/mcreator/jadehorizen/item/SteelItem.class
+  net/mcreator/jadehorizen/item/ThejadeseaItem.class
+  net/mcreator/jadehorizen/procedures/
+  net/mcreator/jadehorizen/procedures/MekaattackProcedure.class
+  net/mcreator/jadehorizen/procedures/MekadeathProcedure.class
+  net/mcreator/jadehorizen/procedures/MekaidleProcedure.class
+  net/mcreator/jadehorizen/procedures/MekasprintProcedure.class
+  net/mcreator/jadehorizen/procedures/MekawalkProcedure.class
+  net/mcreator/jadehorizen/recipes/
+  net/mcreator/jadehorizen/recipes/brewing/
+  net/mcreator/jadehorizen/recipes/brewing/InfusedironblockrecipeBrewingRecipe.class
+  net/mcreator/jadehorizen/recipes/brewing/InfusedobsidianrecipeBrewingRecipe.class
+  net/mcreator/jadehorizen/recipes/brewing/JadeinfusionrecipeBrewingRecipe.class
+  net/mcreator/jadehorizen/recipes/brewing/PurejaderecupeBrewingRecipe.class
+  net/mcreator/jadehorizen/recipes/brewing/QuantuminfusionrecipeBrewingRecipe.class
+  net/mcreator/jadehorizen/recipes/brewing/QuantumingotrecipeeBrewingRecipe.class
+  net/mcreator/jadehorizen/world/
+  net/mcreator/jadehorizen/world/dimension/
+  net/mcreator/jadehorizen/world/dimension/ThejadeseaDimension$ThejadeseaSpecialEffectsHandler$1.class
+  net/mcreator/jadehorizen/world/dimension/ThejadeseaDimension$ThejadeseaSpecialEffectsHandler.class
+  net/mcreator/jadehorizen/world/dimension/ThejadeseaDimension.class
+  net/mcreator/jadehorizen/world/teleporter/
+  net/mcreator/jadehorizen/world/teleporter/ThejadeseaPortalShape.class
+  net/mcreator/jadehorizen/world/teleporter/ThejadeseaTeleporter.class
+  pack.mcmeta

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jade_horizen:block/crying_obsidian_jade",
+    "up": "jade_horizen:block/crying_obsidian_jade",
+    "north": "jade_horizen:block/crying_obsidian_jade",
+    "east": "jade_horizen:block/crying_obsidian_jade",
+    "south": "jade_horizen:block/crying_obsidian_jade",
+    "west": "jade_horizen:block/crying_obsidian_jade",
+    "particle": "jade_horizen:block/crying_obsidian_jade"
+  },
+  "render_type": "solid"
+}

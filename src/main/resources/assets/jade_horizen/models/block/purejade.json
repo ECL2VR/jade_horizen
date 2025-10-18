@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jade_horizen:block/pure_jade_cube",
+    "up": "jade_horizen:block/pure_jade_cube",
+    "north": "jade_horizen:block/pure_jade_cube",
+    "east": "jade_horizen:block/pure_jade_cube",
+    "south": "jade_horizen:block/pure_jade_cube",
+    "west": "jade_horizen:block/pure_jade_cube",
+    "particle": "jade_horizen:block/pure_jade_cube"
+  },
+  "render_type": "solid"
+}

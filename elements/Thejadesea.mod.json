@@ -1,0 +1,79 @@
+{
+  "_fv": 79,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "cold_ocean"
+      },
+      {
+        "value": "ocean"
+      },
+      {
+        "value": "deep_lukewarm_ocean"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Solidjade"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Jaderock"
+    },
+    "seaLevel": 63,
+    "generateOreVeins": true,
+    "generateAquifers": true,
+    "horizontalNoiseSize": 1,
+    "verticalNoiseSize": 2,
+    "defaultEffects": "overworld",
+    "useCustomEffects": true,
+    "hasClouds": true,
+    "cloudHeight": 192.0,
+    "skyType": "END",
+    "airColor": {
+      "value": -16724992,
+      "falpha": 0.0
+    },
+    "sunHeightAffectsFog": true,
+    "canRespawnHere": false,
+    "hasFog": false,
+    "ambientLight": 0.0,
+    "doesWaterVaporize": false,
+    "hasFixedTime": false,
+    "fixedTimeValue": 0,
+    "coordinateScale": 1.0,
+    "infiniburnTag": "minecraft:infiniburn_overworld",
+    "bedWorks": true,
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "piglinSafe": true,
+    "hasRaids": false,
+    "minMonsterSpawnLightLimit": 0,
+    "maxMonsterSpawnLightLimit": 7,
+    "monsterSpawnBlockLightLimit": 0,
+    "portalFrame": {
+      "value": "CUSTOM:Jadeplatting"
+    },
+    "portalParticles": {
+      "value": "SOUL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "enableIgniter": true,
+    "igniterName": "unstable device",
+    "igniterRarity": "COMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Jadehorizon"
+      }
+    ],
+    "texture": "igniter",
+    "portalTexture": "portal_tex",
+    "enablePortal": true
+  }
+}

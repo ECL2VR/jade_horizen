@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cdc",
+    "ba "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "jade_horizen:glond"
+    },
+    "c": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "d": {
+      "item": "jade_horizen:purejade"
+    }
+  },
+  "result": {
+    "item": "jade_horizen:core",
+    "count": 1
+  }
+}

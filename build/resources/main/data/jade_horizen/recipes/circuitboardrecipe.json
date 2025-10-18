@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "jade_horizen:jadestone"
+  },
+  "base": {
+    "item": "minecraft:water_bucket"
+  },
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "result": {
+    "item": "jade_horizen:circuitboard"
+  }
+}

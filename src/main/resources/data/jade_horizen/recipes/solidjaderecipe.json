@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "jade_horizen:jaderock"
+    }
+  },
+  "result": {
+    "item": "jade_horizen:solidjade",
+    "count": 4
+  }
+}

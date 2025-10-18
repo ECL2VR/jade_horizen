@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "jade_horizen:block/infusedironblockallside"
+    },
+    "facing=east": {
+      "model": "jade_horizen:block/infusedironblockallside",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "jade_horizen:block/infusedironblockallside",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jade_horizen:block/infusedironblockallside",
+      "y": 270
+    }
+  }
+}

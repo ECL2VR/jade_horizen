@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "jade_horizen:circuitboard"
+  },
+  "base": {
+    "item": "jade_horizen:glond"
+  },
+  "addition": {
+    "item": "jade_horizen:jadeinfusion"
+  },
+  "result": {
+    "item": "jade_horizen:circuit"
+  }
+}

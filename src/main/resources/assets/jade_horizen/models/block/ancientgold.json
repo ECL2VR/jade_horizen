@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jade_horizen:block/ancient_metal",
+    "up": "jade_horizen:block/ancient_metal",
+    "north": "jade_horizen:block/ancient_metal_side",
+    "east": "jade_horizen:block/ancient_metal_side",
+    "south": "jade_horizen:block/ancient_metal_side",
+    "west": "jade_horizen:block/ancient_metal_side",
+    "particle": "jade_horizen:block/ancient_metal"
+  },
+  "render_type": "solid"
+}

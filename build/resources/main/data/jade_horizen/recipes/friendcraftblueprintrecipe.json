@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:glow_ink_sac"
+    },
+    {
+      "item": "jade_horizen:quantumingot"
+    },
+    {
+      "item": "jade_horizen:blueprintpaper"
+    }
+  ],
+  "result": {
+    "item": "jade_horizen:friendcraftblueprint",
+    "count": 1
+  }
+}

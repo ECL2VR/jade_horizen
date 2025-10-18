@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "dea",
+    "f  "
+  ],
+  "key": {
+    "a": {
+      "item": "jade_horizen:circuit"
+    },
+    "b": {
+      "item": "jade_horizen:purejade"
+    },
+    "c": {
+      "item": "jade_horizen:jadecore_spawn_egg"
+    },
+    "d": {
+      "item": "jade_horizen:glond"
+    },
+    "e": {
+      "item": "jade_horizen:jadeplatting"
+    },
+    "f": {
+      "item": "minecraft:lever"
+    }
+  },
+  "result": {
+    "item": "jade_horizen:jadetechraft_spawn_egg",
+    "count": 1
+  }
+}

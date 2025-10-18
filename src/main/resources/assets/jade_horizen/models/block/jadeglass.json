@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jade_horizen:block/jadeglass",
+    "up": "jade_horizen:block/jadeglass",
+    "north": "jade_horizen:block/jadeglass",
+    "east": "jade_horizen:block/jadeglass",
+    "south": "jade_horizen:block/jadeglass",
+    "west": "jade_horizen:block/jadeglass",
+    "particle": "jade_horizen:block/jadeglass"
+  },
+  "render_type": "translucent"
+}

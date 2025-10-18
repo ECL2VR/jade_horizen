@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jade_horizen:block/quantum_ore",
+    "up": "jade_horizen:block/quantum_ore",
+    "north": "jade_horizen:block/quantum_ore",
+    "east": "jade_horizen:block/quantum_ore",
+    "south": "jade_horizen:block/quantum_ore",
+    "west": "jade_horizen:block/quantum_ore",
+    "particle": "jade_horizen:block/quantum_ore"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,1233 @@
+{
+  "mod_elements": [
+    {
+      "name": "Jadestone",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadestone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/jadestone.json",
+          "src/main/java/net/mcreator/jadehorizen/item/JadestoneItem.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Core",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "core",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/core.json",
+          "src/main/java/net/mcreator/jadehorizen/item/CoreItem.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Jadehorizon",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadehorizon",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/extras"
+    },
+    {
+      "name": "Solidjade",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solidjade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/block/solidjade.json",
+          "src/main/resources/assets/jade_horizen/models/item/solidjade.json",
+          "src/main/java/net/mcreator/jadehorizen/block/SolidjadeBlock.java",
+          "src/main/resources/assets/jade_horizen/blockstates/solidjade.json",
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/solidjade.json"
+        ]
+      },
+      "path": "~/blocks"
+    },
+    {
+      "name": "Jaderock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jaderock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/jaderock.json",
+          "src/main/resources/assets/jade_horizen/models/block/jaderock.json",
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/jaderock.json",
+          "src/main/resources/assets/jade_horizen/blockstates/jaderock.json",
+          "src/main/java/net/mcreator/jadehorizen/block/JaderockBlock.java"
+        ]
+      },
+      "path": "~/blocks"
+    },
+    {
+      "name": "Jadeglass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadeglass",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/block/JadeglassBlock.java",
+          "src/main/resources/assets/jade_horizen/models/block/jadeglass.json",
+          "src/main/resources/assets/jade_horizen/models/item/jadeglass.json",
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/jadeglass.json",
+          "src/main/resources/assets/jade_horizen/blockstates/jadeglass.json"
+        ]
+      },
+      "path": "~/blocks"
+    },
+    {
+      "name": "Purejade",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purejade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/block/PurejadeBlock.java",
+          "src/main/resources/assets/jade_horizen/models/block/purejade.json",
+          "src/main/resources/assets/jade_horizen/models/item/purejade.json",
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/purejade.json",
+          "src/main/resources/assets/jade_horizen/blockstates/purejade.json"
+        ]
+      },
+      "path": "~/blocks"
+    },
+    {
+      "name": "Infusedobsidian",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infusedobsidian",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/blockstates/infusedobsidian.json",
+          "src/main/java/net/mcreator/jadehorizen/block/InfusedobsidianBlock.java",
+          "src/main/resources/assets/jade_horizen/models/item/infusedobsidian.json",
+          "src/main/resources/assets/jade_horizen/models/block/infusedobsidian.json",
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/infusedobsidian.json"
+        ]
+      },
+      "path": "~/blocks"
+    },
+    {
+      "name": "Goldvein",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldvein",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/goldvein.json",
+          "src/main/resources/assets/jade_horizen/blockstates/goldvein.json",
+          "src/main/java/net/mcreator/jadehorizen/block/GoldveinBlock.java",
+          "src/main/resources/data/jade_horizen/forge/biome_modifier/goldvein_biome_modifier.json",
+          "src/main/resources/data/jade_horizen/worldgen/configured_feature/goldvein.json",
+          "src/main/resources/assets/jade_horizen/models/item/goldvein.json",
+          "src/main/resources/data/jade_horizen/worldgen/placed_feature/goldvein.json",
+          "src/main/resources/assets/jade_horizen/models/block/goldvein.json"
+        ]
+      },
+      "path": "~/blocks"
+    },
+    {
+      "name": "Ancientgold",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancientgold",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/ancientgold.json",
+          "src/main/java/net/mcreator/jadehorizen/block/AncientgoldBlock.java",
+          "src/main/resources/assets/jade_horizen/models/block/ancientgold.json",
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/ancientgold.json",
+          "src/main/resources/assets/jade_horizen/blockstates/ancientgold.json"
+        ]
+      },
+      "path": "~/blocks"
+    },
+    {
+      "name": "Goldscrap",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldscrap",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/item/GoldscrapItem.java",
+          "src/main/resources/assets/jade_horizen/models/item/goldscrap.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Jadeinfusion",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadeinfusion",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/item/JadeinfusionItem.java",
+          "src/main/resources/assets/jade_horizen/models/item/jadeinfusion.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Glond",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glond",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/glond.json",
+          "src/main/java/net/mcreator/jadehorizen/item/GlondItem.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Circuitboard",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "circuitboard",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/item/CircuitboardItem.java",
+          "src/main/resources/assets/jade_horizen/models/item/circuitboard.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Circuit",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "circuit",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/item/CircuitItem.java",
+          "src/main/resources/assets/jade_horizen/models/item/circuit.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Jadeplatting",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadeplatting",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/blockstates/jadeplatting.json",
+          "src/main/resources/assets/jade_horizen/models/block/jadeplatting.json",
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/jadeplatting.json",
+          "src/main/resources/assets/jade_horizen/models/item/jadeplatting.json",
+          "src/main/java/net/mcreator/jadehorizen/block/JadeplattingBlock.java"
+        ]
+      },
+      "path": "~/blocks"
+    },
+    {
+      "name": "Jadetrim",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadetrim",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/jadetrim.json",
+          "src/main/java/net/mcreator/jadehorizen/item/JadetrimItem.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Jadetecharmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadetecharmor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/jadetecharmor_chestplate.json",
+          "src/main/resources/assets/jade_horizen/models/item/jadetecharmor_boots.json",
+          "src/main/resources/assets/jade_horizen/models/item/jadetecharmor_helmet.json",
+          "src/main/resources/assets/jade_horizen/models/item/jadetecharmor_leggings.json",
+          "src/main/java/net/mcreator/jadehorizen/item/JadetecharmorItem.java"
+        ]
+      },
+      "path": "~/extras"
+    },
+    {
+      "name": "Jadecrawler",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadecrawler",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/jadecrawler_spawn_egg.json",
+          "src/main/java/net/mcreator/jadehorizen/client/renderer/JadecrawlerRenderer.java",
+          "src/main/java/net/mcreator/jadehorizen/entity/JadecrawlerEntity.java",
+          "src/main/resources/data/jade_horizen/forge/biome_modifier/jadecrawler_biome_modifier.json"
+        ]
+      },
+      "path": "~/mobs"
+    },
+    {
+      "name": "Mekawalk",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mekawalk",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/procedures/MekawalkProcedure.java"
+        ]
+      },
+      "path": "~/code"
+    },
+    {
+      "name": "Mekadeath",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mekadeath",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/procedures/MekadeathProcedure.java"
+        ]
+      },
+      "path": "~/code"
+    },
+    {
+      "name": "Mekasprint",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mekasprint",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/procedures/MekasprintProcedure.java"
+        ]
+      },
+      "path": "~/code"
+    },
+    {
+      "name": "Mekaidle",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mekaidle",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/procedures/MekaidleProcedure.java"
+        ]
+      },
+      "path": "~/code"
+    },
+    {
+      "name": "Mekaattack",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mekaattack",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/procedures/MekaattackProcedure.java"
+        ]
+      },
+      "path": "~/code"
+    },
+    {
+      "name": "Cybergzombie",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cybergzombie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/forge/biome_modifier/cybergzombie_biome_modifier.json",
+          "src/main/resources/assets/jade_horizen/models/item/cybergzombie_spawn_egg.json",
+          "src/main/java/net/mcreator/jadehorizen/entity/CybergzombieEntity.java",
+          "src/main/java/net/mcreator/jadehorizen/client/renderer/CybergzombieRenderer.java"
+        ]
+      },
+      "path": "~/mobs"
+    },
+    {
+      "name": "Jadecore",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadecore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/jadecore_spawn_egg.json",
+          "src/main/java/net/mcreator/jadehorizen/client/renderer/JadecoreRenderer.java",
+          "src/main/java/net/mcreator/jadehorizen/entity/JadecoreEntity.java"
+        ]
+      },
+      "path": "~/mobs"
+    },
+    {
+      "name": "Jadetechraft",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadetechraft",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/entity/JadetechraftEntity.java",
+          "src/main/java/net/mcreator/jadehorizen/client/renderer/JadetechraftRenderer.java",
+          "src/main/resources/assets/jade_horizen/models/item/jadetechraft_spawn_egg.json"
+        ]
+      },
+      "path": "~/mobs"
+    },
+    {
+      "name": "Corerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/advancements/recipes/corerecipe.json",
+          "src/main/resources/data/jade_horizen/recipes/corerecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Jadecorerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadecorerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/advancements/recipes/jadecorerecipe.json",
+          "src/main/resources/data/jade_horizen/recipes/jadecorerecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Jadetechraftrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadetechraftrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/recipes/jadetechraftrecipe.json",
+          "src/main/resources/data/jade_horizen/advancements/recipes/jadetechraftrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Jadeinfusionrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadeinfusionrecipe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/recipes/brewing/JadeinfusionrecipeBrewingRecipe.java"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Jadeglassrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadeglassrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/recipes/jadeglassrecipe.json",
+          "src/main/resources/data/jade_horizen/advancements/recipes/jadeglassrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Solidjaderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solidjaderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/recipes/solidjaderecipe.json",
+          "src/main/resources/data/jade_horizen/advancements/recipes/solidjaderecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Jaderockrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jaderockrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/advancements/recipes/jaderockrecipe.json",
+          "src/main/resources/data/jade_horizen/recipes/jaderockrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Jadeplattingrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadeplattingrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/recipes/jadeplattingrecipe.json",
+          "src/main/resources/data/jade_horizen/advancements/recipes/jadeplattingrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Purejaderecupe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purejaderecupe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/recipes/brewing/PurejaderecupeBrewingRecipe.java"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Infusedironblockrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infusedironblockrecipe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/recipes/brewing/InfusedironblockrecipeBrewingRecipe.java"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Infusedobsidianrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infusedobsidianrecipe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/recipes/brewing/InfusedobsidianrecipeBrewingRecipe.java"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Glondrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glondrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/recipes/glondrecipe.json",
+          "src/main/resources/data/jade_horizen/advancements/recipes/glondrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Circutboardrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "circutboardrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/recipes/circuitboardrecipe.json",
+          "src/main/resources/data/jade_horizen/advancements/recipes/circutboardrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Circuitrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "circuitrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/advancements/recipes/circuitrecipe.json",
+          "src/main/resources/data/jade_horizen/recipes/circuitrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Jadetrimrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadetrimrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/recipes/jadetrimrecipe.json",
+          "src/main/resources/data/jade_horizen/advancements/recipes/jadetrimrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Jadetechhelmet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadetechhelmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/recipes/jadetechhelmet.json",
+          "src/main/resources/data/jade_horizen/advancements/recipes/jadetechhelmet.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Jadetechchestplaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadetechchestplaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/advancements/recipes/jadetechchestplaterecipe.json",
+          "src/main/resources/data/jade_horizen/recipes/jadetechchestplaterecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Jadetechleggingsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadetechleggingsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/advancements/recipes/jadetechleggingsrecipe.json",
+          "src/main/resources/data/jade_horizen/recipes/jadetechleggingsrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Jadetechbootsrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadetechbootsrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/recipes/jadetechbootsrecipe.json",
+          "src/main/resources/data/jade_horizen/advancements/recipes/jadetechbootsrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Thejadesea",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thejadesea",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/blockstates/thejadesea_portal.json",
+          "src/main/resources/data/jade_horizen/dimension/thejadesea.json",
+          "src/main/resources/assets/jade_horizen/models/block/thejadesea_portal_ns.json",
+          "src/main/java/net/mcreator/jadehorizen/world/teleporter/ThejadeseaTeleporter.java",
+          "src/main/resources/data/jade_horizen/dimension_type/thejadesea.json",
+          "src/main/resources/assets/jade_horizen/models/item/thejadesea.json",
+          "src/main/java/net/mcreator/jadehorizen/block/ThejadeseaPortalBlock.java",
+          "src/main/resources/assets/jade_horizen/models/block/thejadesea_portal_ew.json",
+          "src/main/java/net/mcreator/jadehorizen/world/teleporter/ThejadeseaPortalShape.java",
+          "src/main/java/net/mcreator/jadehorizen/item/ThejadeseaItem.java",
+          "src/main/java/net/mcreator/jadehorizen/world/dimension/ThejadeseaDimension.java"
+        ]
+      },
+      "path": "~/extras"
+    },
+    {
+      "name": "Unstabledevicerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unstabledevicerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/advancements/recipes/unstabledevicerecipe.json",
+          "src/main/resources/data/jade_horizen/recipes/unstabledevicerecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Jadeite",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadeite",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/worldgen/configured_feature/jadeite.json",
+          "src/main/resources/assets/jade_horizen/blockstates/jadeite.json",
+          "src/main/resources/assets/jade_horizen/models/block/jadeite.json",
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/jadeite.json",
+          "src/main/resources/data/jade_horizen/worldgen/placed_feature/jadeite.json",
+          "src/main/java/net/mcreator/jadehorizen/block/JadeiteBlock.java",
+          "src/main/resources/assets/jade_horizen/models/item/jadeite.json",
+          "src/main/resources/data/jade_horizen/forge/biome_modifier/jadeite_biome_modifier.json"
+        ]
+      },
+      "path": "~/blocks"
+    },
+    {
+      "name": "Steel",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/item/SteelItem.java",
+          "src/main/resources/assets/jade_horizen/models/item/steel.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Steelrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steelrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/advancements/recipes/steelrecipe.json",
+          "src/main/resources/data/jade_horizen/recipes/steelrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Quantumcrystal",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quantumcrystal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/quantumcrystal.json",
+          "src/main/java/net/mcreator/jadehorizen/item/QuantumcrystalItem.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Quantumore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quantumore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/worldgen/configured_feature/quantumore.json",
+          "src/main/java/net/mcreator/jadehorizen/block/QuantumoreBlock.java",
+          "src/main/resources/data/jade_horizen/worldgen/placed_feature/quantumore.json",
+          "src/main/resources/assets/jade_horizen/models/block/quantumore.json",
+          "src/main/resources/assets/jade_horizen/models/item/quantumore.json",
+          "src/main/resources/assets/jade_horizen/blockstates/quantumore.json",
+          "src/main/resources/data/jade_horizen/forge/biome_modifier/quantumore_biome_modifier.json",
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/quantumore.json"
+        ]
+      },
+      "path": "~/blocks"
+    },
+    {
+      "name": "Quantumingot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quantumingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/quantumingot.json",
+          "src/main/java/net/mcreator/jadehorizen/item/QuantumingotItem.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Quantumingotrecipee",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quantumingotrecipee",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/recipes/brewing/QuantumingotrecipeeBrewingRecipe.java"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Quantuminfusion",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quantuminfusion",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/quantuminfusion.json",
+          "src/main/java/net/mcreator/jadehorizen/item/QuantuminfusionItem.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Quantuminfusionrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quantuminfusionrecipe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/recipes/brewing/QuantuminfusionrecipeBrewingRecipe.java"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Jadecycle",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadecycle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/jadecycle_spawn_egg.json",
+          "src/main/java/net/mcreator/jadehorizen/entity/JadecycleEntity.java",
+          "src/main/java/net/mcreator/jadehorizen/client/renderer/JadecycleRenderer.java"
+        ]
+      },
+      "path": "~/mobs"
+    },
+    {
+      "name": "Jadecyclerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jadecyclerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/recipes/jadecyclerecipe.json",
+          "src/main/resources/data/jade_horizen/advancements/recipes/jadecyclerecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Aliencraft",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aliencraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/forge/biome_modifier/aliencraft_biome_modifier.json",
+          "src/main/java/net/mcreator/jadehorizen/entity/AliencraftEntity.java",
+          "src/main/java/net/mcreator/jadehorizen/client/renderer/AliencraftRenderer.java",
+          "src/main/resources/assets/jade_horizen/models/item/aliencraft_spawn_egg.json"
+        ]
+      },
+      "path": "~/mobs"
+    },
+    {
+      "name": "Friendcraft",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "friendcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/friendcraft_spawn_egg.json",
+          "src/main/java/net/mcreator/jadehorizen/client/renderer/FriendcraftRenderer.java",
+          "src/main/java/net/mcreator/jadehorizen/entity/FriendcraftEntity.java"
+        ]
+      },
+      "path": "~/mobs"
+    },
+    {
+      "name": "Friendcraftrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "friendcraftrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/recipes/friendcraftrecipe.json",
+          "src/main/resources/data/jade_horizen/advancements/recipes/friendcraftrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Blueprintpaper",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blueprintpaper",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/item/BlueprintpaperItem.java",
+          "src/main/resources/assets/jade_horizen/models/item/blueprintpaper.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Friendcraftblueprint",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "friendcraftblueprint",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/friendcraftblueprint.json",
+          "src/main/java/net/mcreator/jadehorizen/item/FriendcraftblueprintItem.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Friendcraftblueprintrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "friendcraftblueprintrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/jade_horizen/recipes/friendcraftblueprintrecipe.json",
+          "src/main/resources/data/jade_horizen/advancements/recipes/friendcraftblueprintrecipe.json"
+        ]
+      },
+      "path": "~/recipes"
+    },
+    {
+      "name": "Quantumcrawler",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quantumcrawler",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/quantumcrawler_spawn_egg.json",
+          "src/main/java/net/mcreator/jadehorizen/client/renderer/QuantumcrawlerRenderer.java",
+          "src/main/java/net/mcreator/jadehorizen/entity/QuantumcrawlerEntity.java",
+          "src/main/resources/data/jade_horizen/forge/biome_modifier/quantumcrawler_biome_modifier.json"
+        ]
+      },
+      "path": "~/mobs"
+    },
+    {
+      "name": "Infusedironblockturn",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infusedironblockturn",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/models/item/infusedironblockturn.json",
+          "src/main/java/net/mcreator/jadehorizen/block/InfusedironblockturnBlock.java",
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/infusedironblockturn.json",
+          "src/main/resources/assets/jade_horizen/blockstates/infusedironblockturn.json",
+          "src/main/resources/assets/jade_horizen/models/block/infusedironblockturn.json"
+        ]
+      },
+      "path": "~/blocks"
+    },
+    {
+      "name": "Infusedironblockallside",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infusedironblockallside",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jadehorizen/block/InfusedironblockallsideBlock.java",
+          "src/main/resources/assets/jade_horizen/models/item/infusedironblockallside.json",
+          "src/main/resources/assets/jade_horizen/blockstates/infusedironblockallside.json",
+          "src/main/resources/assets/jade_horizen/models/block/infusedironblockallside.json",
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/infusedironblockallside.json"
+        ]
+      },
+      "path": "~/blocks"
+    },
+    {
+      "name": "Infusedironblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infusedironblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/blockstates/infusedironblock.json",
+          "src/main/resources/assets/jade_horizen/models/item/infusedironblock.json",
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/infusedironblock.json",
+          "src/main/java/net/mcreator/jadehorizen/block/InfusedironblockBlock.java",
+          "src/main/resources/assets/jade_horizen/models/block/infusedironblock.json"
+        ]
+      },
+      "path": "~/blocks"
+    },
+    {
+      "name": "Infusedironblockcrosspath",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infusedironblockcrosspath",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jade_horizen/blockstates/infusedironblockcrosspath.json",
+          "src/main/resources/data/jade_horizen/loot_tables/blocks/infusedironblockcrosspath.json",
+          "src/main/resources/assets/jade_horizen/models/item/infusedironblockcrosspath.json",
+          "src/main/resources/assets/jade_horizen/models/block/infusedironblockcrosspath.json",
+          "src/main/java/net/mcreator/jadehorizen/block/InfusedironblockcrosspathBlock.java"
+        ]
+      },
+      "path": "~/blocks"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:Infusedironblock",
+      "~CUSTOM:Infusedironblockallside",
+      "~CUSTOM:Infusedironblockturn",
+      "~CUSTOM:Jadeplatting",
+      "~CUSTOM:Ancientgold",
+      "~CUSTOM:Goldvein",
+      "~CUSTOM:Infusedobsidian",
+      "~CUSTOM:Purejade",
+      "~CUSTOM:Jadeglass",
+      "~CUSTOM:Jaderock",
+      "~CUSTOM:Solidjade",
+      "~CUSTOM:Jadeite"
+    ],
+    "BLOCKS:minecraft:needs_iron_tool": [
+      "~CUSTOM:Infusedironblock",
+      "~CUSTOM:Infusedironblockallside",
+      "~CUSTOM:Infusedironblockturn",
+      "~CUSTOM:Goldvein",
+      "~CUSTOM:Purejade",
+      "~CUSTOM:Jadeglass",
+      "~CUSTOM:Jaderock",
+      "~CUSTOM:Solidjade",
+      "~CUSTOM:Jadeite"
+    ],
+    "BLOCKS:minecraft:needs_diamond_tool": [
+      "~CUSTOM:Jadeplatting",
+      "~CUSTOM:Infusedobsidian"
+    ],
+    "BLOCKS:minecraft:overworld_carver_replaceables": [
+      "~CUSTOM:Solidjade"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.jade_horizen.jadestone": "Jadestone",
+      "item.jade_horizen.core": "Core",
+      "item_group.jade_horizen.jadehorizon": "Jade horizon",
+      "block.jade_horizen.jadeite": "Jadeite",
+      "block.jade_horizen.solidjade": "Solid jade",
+      "block.jade_horizen.jaderock": "Jaderock",
+      "block.jade_horizen.jadeglass": "Jadeglass",
+      "block.jade_horizen.purejade": "Purejade",
+      "block.jade_horizen.infusedobsidian": "Infused obsidian",
+      "block.jade_horizen.goldvein": "Gold vein",
+      "block.jade_horizen.ancientgold": "Ancient gold",
+      "item.jade_horizen.goldscrap": "Gold scrap",
+      "item.jade_horizen.jadeinfusion": "Jade infusion",
+      "item.jade_horizen.glond": "Glond",
+      "item.jade_horizen.circuitboard": "Circuit board",
+      "item.jade_horizen.circuit": "Circuit",
+      "block.jade_horizen.jadeplatting": "Jade platting",
+      "item.jade_horizen.jadetrim": "Jadetrim",
+      "item.jade_horizen.jadetecharmor_leggings": "Jadetech Leggings",
+      "item.jade_horizen.jadetecharmor_chestplate": "Jadetech Chestplate",
+      "item.jade_horizen.jadetecharmor_helmet": "Jadetech Helmet",
+      "item.jade_horizen.jadetecharmor_boots": "Jadetech Boots",
+      "entity.jade_horizen.jadecrawler": "Jadecrawler",
+      "item.jade_horizen.jadecrawler_spawn_egg": "Jadecrawler Spawn Egg",
+      "item.jade_horizen.cybergzombie_spawn_egg": "Cyberg zombie Spawn Egg",
+      "entity.jade_horizen.cybergzombie": "Cyberg zombie",
+      "item.jade_horizen.jadecore_spawn_egg": "Jadecore Spawn Egg",
+      "entity.jade_horizen.jadecore": "Jadecore",
+      "entity.jade_horizen.jadetechraft": "Jadetech raft",
+      "item.jade_horizen.jadetechraft_spawn_egg": "Jadetech raft Spawn Egg",
+      "item.jade_horizen.thejadesea": "unstable device",
+      "item.jade_horizen.steel": "Steel",
+      "item.jade_horizen.quantumcrystal": "Quantum crystal",
+      "block.jade_horizen.quantumore": "Quantum ore",
+      "item.jade_horizen.quantumingot": "Quantum ingot",
+      "item.jade_horizen.quantuminfusion": "Quantumin fusion",
+      "item.jade_horizen.jadecycle_spawn_egg": "quantomcycle Spawn Egg",
+      "entity.jade_horizen.jadecycle": "quantomcycle",
+      "entity.jade_horizen.aliencraft": "Aliencraft",
+      "item.jade_horizen.aliencraft_spawn_egg": "Aliencraft Spawn Egg",
+      "entity.jade_horizen.friendcraft": "Friendcraft",
+      "item.jade_horizen.friendcraft_spawn_egg": "Friendcraft Spawn Egg",
+      "item.jade_horizen.blueprintpaper": "Blueprint paper",
+      "item.jade_horizen.friendcraftblueprint": "Friendcraftblueprint",
+      "entity.jade_horizen.quantumcrawler": "Quantum crawler",
+      "item.jade_horizen.quantumcrawler_spawn_egg": "Quantum crawler Spawn Egg",
+      "block.jade_horizen.infusedironblockturn": "Infused iron block ",
+      "block.jade_horizen.infusedironblockallside": "Infused iron block ",
+      "block.jade_horizen.infusedironblock": "Infused iron block",
+      "block.jade_horizen.infusedironblockcrosspath": "Infused iron block "
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/jadehorizen/JadeHorizenMod.java",
+      "src/main/resources/META-INF/mods.toml",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/jadehorizen/init/JadeHorizenModTabs.java",
+      "src/main/java/net/mcreator/jadehorizen/init/JadeHorizenModModels.java",
+      "src/main/java/net/mcreator/jadehorizen/init/JadeHorizenModBlocks.java",
+      "src/main/java/net/mcreator/jadehorizen/init/JadeHorizenModItems.java",
+      "src/main/java/net/mcreator/jadehorizen/init/JadeHorizenModEntityRenderers.java",
+      "src/main/java/net/mcreator/jadehorizen/init/JadeHorizenModEntities.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "items",
+        "children": []
+      },
+      {
+        "name": "extras",
+        "children": []
+      },
+      {
+        "name": "blocks",
+        "children": []
+      },
+      {
+        "name": "test",
+        "children": []
+      },
+      {
+        "name": "mobs",
+        "children": []
+      },
+      {
+        "name": "code",
+        "children": []
+      },
+      {
+        "name": "recipes",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "jade_horizen",
+    "modName": "jade horizen",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.jadehorizen"
+  },
+  "mcreatorVersion": 202500228610
+}

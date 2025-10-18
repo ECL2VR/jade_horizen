@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "jade_horizen:steel"
+    },
+    "b": {
+      "item": "jade_horizen:jadecore_spawn_egg"
+    },
+    "c": {
+      "item": "jade_horizen:jadetechraft_spawn_egg"
+    },
+    "d": {
+      "item": "jade_horizen:quantumingot"
+    }
+  },
+  "result": {
+    "item": "jade_horizen:jadecycle_spawn_egg",
+    "count": 1
+  }
+}
