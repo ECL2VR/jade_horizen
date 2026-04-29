@@ -1,0 +1,35 @@
+{
+  "name": "agent-hub",
+  "version": "1.0.0",
+  "description": "Unified AI agent orchestrator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.33.1",
+    "@google/generative-ai": "^0.21.0",
+    "electron-store": "^8.2.0",
+    "openai": "^4.73.0"
+  },
+  "devDependencies": {
+    "electron": "^33.0.0",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.agenthub.app",
+    "productName": "Agent Hub",
+    "linux": {
+      "target": ["AppImage"],
+      "category": "Utility"
+    },
+    "mac": {
+      "target": ["dmg"]
+    },
+    "win": {
+      "target": ["nsis"]
+    }
+  }
+}
