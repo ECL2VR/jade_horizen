@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Agent Hub</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div class="logo">⬡ Agent Hub</div>
+      <div id="agent-pills" class="agent-pills"></div>
+    </header>
+
+    <main>
+      <div class="hero">
+        <h1>What do you need done?</h1>
+        <p class="subtitle">Describe your task — the orchestrator routes it to the right AI(s) and returns a finished result.</p>
+      </div>
+
+      <div class="input-area">
+        <textarea
+          id="task-input"
+          placeholder="e.g. Write a product launch email for my new app, then summarize it in 3 bullet points…"
+          rows="4"
+        ></textarea>
+        <button id="run-btn" onclick="runTask()">Run Task</button>
+      </div>
+
+      <div id="status-bar" class="status-bar hidden"></div>
+
+      <div id="result-area" class="result-area hidden">
+        <div class="result-header">
+          <span id="plan-label" class="plan-label"></span>
+          <div class="agent-badges" id="agent-badges"></div>
+        </div>
+
+        <div class="tabs" id="tabs">
+          <button class="tab active" onclick="showTab('final')">Final Output</button>
+          <button class="tab" onclick="showTab('breakdown')">Agent Breakdown</button>
+        </div>
+
+        <div id="tab-final" class="tab-content active">
+          <div id="final-output" class="output-box"></div>
+          <button class="copy-btn" onclick="copyOutput()">Copy</button>
+        </div>
+
+        <div id="tab-breakdown" class="tab-content">
+          <div id="breakdown-output"></div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
